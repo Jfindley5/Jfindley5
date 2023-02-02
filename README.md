@@ -23,8 +23,8 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/jaiquan-findley-1b7809201  
 <br></br>  
-* 🌍  I'm based in Dallas, TX
-* ✉️  You can contact me at [tayvion@tayontech.io](mailto:tayvion@tayontech.io)
+*🌍  I'm based in Dallas, TX
+*✉️  You can contact me at [tayvion@tayontech.io](mailto:tayvion@tayontech.io)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
