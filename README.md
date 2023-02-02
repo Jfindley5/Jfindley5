@@ -7,7 +7,9 @@
 
 <h2>📃 Certifications:</h2>
 
-- [CompTia Security+]()
+- [CompTia Security+](https://www.credly.com/badges/ef82497f-545b-46d5-8f60-a5f5ec574675/linked_in_profile)
+  
+  https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png
   
 
 
