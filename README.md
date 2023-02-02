@@ -9,8 +9,8 @@
 
 - [CompTia Security+]()
   
-* 🌍  I'm based in Washington, D.C>
-* ✉️  You can contact me at [Jaiquan.findley.19@cnu.edu](mailto:Jaiquan.findley.19@cnu.edu)
+🌍  I'm based in Washington, D.C
+✉️  You can contact me at [Jaiquan.findley.19@cnu.edu](mailto:Jaiquan.findley.19@cnu.edu)
 
 <h2> 🤳 Connect with me:</h2>
 
