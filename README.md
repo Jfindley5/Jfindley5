@@ -23,7 +23,8 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/jaiquan-findley-1b7809201
   
-
+* 🌍  I'm based in Washington, D.C
+* ✉️  You can contact me at [Jaiquan.findley.19@cnu.edu](mailto:Jaiquan.findley.19@cnu.edu)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
