@@ -21,8 +21,10 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://www.linkedin.com/in/jaiquan-findley-1b7809201 <br>
-
+[linkedin]: https://www.linkedin.com/in/jaiquan-findley-1b7809201 
+  
+<br></br>
+  
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [tayvion@tayontech.io](mailto:tayvion@tayontech.io)
 
