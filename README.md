@@ -18,11 +18,8 @@
 
 </p>
 
-https://miro.medium.com/max/800/1*sHhtYhaCe2Uc3IU0IgKwIQ.png
-  
-[<img align="left" alt="Jaiquanfindley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/jaiquan-findley-1b7809201  
+  
 <br>
 * 🌍  I'm based in Washington, DC
 * ✉️  You can contact me at [Jaiquan.findley.19@cnu.edu](mailto:Jaiquan.findley.19@cnu.edu)
