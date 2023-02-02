@@ -25,7 +25,7 @@
 
 <br> 
 * 🌍  I'm based in Washington, D.C <br>
-* ✉️  You can contact me at [Jaiquan.findley.19@cnu.edu](mailto:Jaiquan.findley.19@cnu.edu)
+* ✉️  You can contact me at [Jaiquan.findley.19@cnu.edu] (mailto: Jaiquan.findley.19@cnu.edu)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
