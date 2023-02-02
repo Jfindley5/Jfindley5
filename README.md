@@ -19,8 +19,8 @@
 <br>
 * 🌍  I'm based in Washington, DC
 * ✉️  You can contact me at [Jaiquan.findley.19@cnu.edu](mailto:Jaiquan.findley.19@cnu.edu)
-
- href="https://www.linkedin.com/in/tayvionpayton" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/tayvionpayton" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
