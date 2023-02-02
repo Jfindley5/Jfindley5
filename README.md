@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Cloud Detection W/ Azure](https://github.com/Jfindley5/ActiveDirectoryLab)
-- [Active Directory Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Jfindley5/ActiveDirectoryLab))
+- [Active Directory Home Lab](https://github.com/Jfindley5/ActiveDirectoryLab)
 
 <h2>📃 Certifications:</h2>
 
