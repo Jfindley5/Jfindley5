@@ -24,7 +24,7 @@
 [linkedin]: https://www.linkedin.com/in/jaiquan-findley-1b7809201
 
 <br> 
-* 🌍  I'm based in Washington, D.C
+* 🌍  I'm based in Washington, D.C <br>
 * ✉️  You can contact me at [Jaiquan.findley.19@cnu.edu](mailto:Jaiquan.findley.19@cnu.edu)
 
 <!--
