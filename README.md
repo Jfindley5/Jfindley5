@@ -21,7 +21,7 @@
 
   
 <br>
-* 🌍  I'm based in Washington, DC
+* 🌍  I'm based in Washington, DC </br>
 * ✉️  You can contact me at [Jaiquan.findley.19@cnu.edu](mailto:Jaiquan.findley.19@cnu.edu)
 
 <!--
