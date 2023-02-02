@@ -14,7 +14,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jaiquan-findley-1b7809201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jaiquan-findley-1b7809201" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/800/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/jaiquan-findley-1b7809201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://medium.com/@jaiquan.findley.19" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/800/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" width="32" height="32" /></a>
 
 </p>
 
