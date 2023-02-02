@@ -22,7 +22,8 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/jaiquan-findley-1b7809201
-  
+
+<br> 
 * 🌍  I'm based in Washington, D.C
 * ✉️  You can contact me at [Jaiquan.findley.19@cnu.edu](mailto:Jaiquan.findley.19@cnu.edu)
 
