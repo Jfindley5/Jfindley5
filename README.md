@@ -20,12 +20,11 @@
 
 
   
-<br>
-* 🌍  I'm based in Washington, DC </br>
+* 🌍  I'm based in Washington, DC 
 * ✉️  You can contact me at [Jaiquan.findley.19@cnu.edu](mailto:Jaiquan.findley.19@cnu.edu)
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jfindley5/Jfindley5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
