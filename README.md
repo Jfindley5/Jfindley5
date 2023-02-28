@@ -6,7 +6,7 @@
 - [Cloud Detection W/ Azure](https://github.com/Jfindley5/Cloud-Detection-W-Azure)
 - [Active Directory Home Lab](https://github.com/Jfindley5/ActiveDirectoryLab)
 - [Vulnerability Managment W/ Nessus](https://github.com/Jfindley5/Vulnerability-Managment-W-Nessus)
-- [HomeLab Detection & Monitoring] (https://github.com/Jfindley5/HomeLab-Detection-Monitoring)
+- [HomeLab:Detection & Monitoring](https://github.com/Jfindley5/HomeLab-Detection-Monitoring)
 
 <h2>📃 Certifications:</h2>
 
