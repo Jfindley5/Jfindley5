@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Live Cyber Attacks W/ Azure Sentinel](https://github.com/Jfindley5/Live-Cyber-Attacks-W-Azure-Sentinel)
 - [Cloud Detection W/ Azure](https://github.com/Jfindley5/Cloud-Detection-W-Azure)
 - [Active Directory Home Lab](https://github.com/Jfindley5/ActiveDirectoryLab)
+
 
 <h2>📃 Certifications:</h2>
 
