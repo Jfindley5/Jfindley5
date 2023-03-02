@@ -4,8 +4,8 @@
 
 - [Live Cyber Attacks W/ Azure Sentinel](https://github.com/Jfindley5/Live-Cyber-Attacks-W-Azure-Sentinel)
 - [Cloud Detection W/ Azure](https://github.com/Jfindley5/Cloud-Detection-W-Azure)
-- [Active Directory Home Lab](https://github.com/Jfindley5/ActiveDirectoryLab)
-- [Vulnerability Managment W/ Nessus (Under Construction)](https://github.com/Jfindley5/Vulnerability-Managment-W-Nessus)
+- [Vulnerability Managment W/ Nessus](https://github.com/Jfindley5/Vulnerability-Managment-W-Nessus)
+- [Active Directory Home Lab (Under Construction)](https://github.com/Jfindley5/ActiveDirectoryLab)
 - [HomeLab: Detection & Monitoring (Under Construction)](https://github.com/Jfindley5/HomeLab-Detection-Monitoring)
 
 <h2>📃 Certifications:</h2>
