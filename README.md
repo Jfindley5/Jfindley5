@@ -5,9 +5,11 @@
 - [Live Cyber Attacks W/ Azure Sentinel](https://github.com/Jfindley5/Live-Cyber-Attacks-W-Azure-Sentinel)
 - [Cloud Detection W/ Azure](https://github.com/Jfindley5/Cloud-Detection-W-Azure)
 - [Vulnerability Managment W/ Nessus](https://github.com/Jfindley5/Vulnerability-Managment-W-Nessus)
-- [Active Directory Home Lab (Under Construction)](https://github.com/Jfindley5/ActiveDirectoryLab)
 - [HomeLab: Detection & Monitoring (Under Construction)](https://github.com/Jfindley5/HomeLab-Detection-Monitoring)
 
+<h2>👨‍💻 Programming Projects:</h2>
+- Rock Paper Scissors
+  
 <h2>📃 Certifications:</h2>
 
 - [CompTia Security+](https://www.credly.com/badges/ef82497f-545b-46d5-8f60-a5f5ec574675/linked_in_profile) <a href="https://www.credly.com/badges/ef82497f-545b-46d5-8f60-a5f5ec574675/linked_in_profile" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" width="32" height="32" /></a>
