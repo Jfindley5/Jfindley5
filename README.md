@@ -8,7 +8,7 @@
 - [HomeLab: Detection & Monitoring (Under Construction)](https://github.com/Jfindley5/HomeLab-Detection-Monitoring)
 
 <h2>👨‍💻 Programming Projects:</h2>
-- [Rock Paper Scissors](https://github.com/Jfindley5/RockPaperScissors)
+- [Rock Paper Scissors] (https://github.com/Jfindley5/RockPaperScissors)
   
 <h2>📃 Certifications:</h2>
 
