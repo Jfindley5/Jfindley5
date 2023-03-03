@@ -10,7 +10,7 @@
 <h2>👨‍💻 Programming Projects:</h2>
   
 - [Rock Paper Scissors](https://github.com/Jfindley5/RockPaperScissors)
-- [Weather Scrapping (Under Construction)](https://github.com/Jfindley5/Weather-Scrapping.git)
+- [Weather Scrapping (Under Construction)](https://github.com/Jfindley5/Weather-Scrapper)
   
 <h2>📃 Certifications:</h2>
 
